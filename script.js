@@ -1,6 +1,6 @@
-// preincriment
+
 var a=10;
-b=a++;
+b=++a;
 console.log(a);
 console.log(b);
 
