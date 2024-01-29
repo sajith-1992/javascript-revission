@@ -1,10 +1,7 @@
-var sum =0;
-var n=10;
+ var n="10";
 
-for(i=1;i<=n;i++){
- 
-    sum=sum+i;
-    console.log(sum);
-
-}
-
+ for(i=0;i<=10;i++)
+ {
+    if(i%2==0){
+        console.log(i)}
+ }
