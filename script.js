@@ -1,6 +1,10 @@
+var sum =0;
+var n=10;
 
-var a=10;
-b=++a;
-console.log(a);
-console.log(b);
+for(i=1;i<=n;i++){
+ 
+    sum=sum+i;
+    console.log(sum);
+
+}
 
